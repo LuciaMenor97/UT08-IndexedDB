@@ -14,3 +14,10 @@ Ejercicio 2: dada la práctica de la unidad 7 del VideoSystem, implementa las si
   3. Para implementar el ejercicio puedes optar por dos soluciones (1,5 puntos): 
     1. Dejar de utilizar los arrays para que todos los métodos de consulta de la galería se hagan contra la base de datos. 
     2. Mantener los arrays, y en el onload de la página realizar todas las consultas contra la base de datos para crear la estructura de          arrays que has utilizado hasta la fecha. Con esta opción por cada añadido o borrado de cualquier objeto, deberás hacerlo tanto en          el array correspondiente, como en la base de datos.
+
+
+# Versión 1.0
+
+- Funcionalidad del cronómetro implementada.
+- Integración de la aplicación en indexedDB.
+- Corrección de errores.
